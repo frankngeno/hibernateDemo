@@ -1,2 +1,2 @@
 # hibernateDemo
-An end point hibernate Demo.
+An end point REST API to demo hibernate.
